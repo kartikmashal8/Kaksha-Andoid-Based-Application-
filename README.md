@@ -1,0 +1,2 @@
+# Kaksha-Andoid-Based-Application-
+This is an android based application mainly designed for college-specific use. This application designed for the purpose  to provide a simple and user-friendly interface for both the faculty members and students, provides course-related material 24/7, also provides assessment tests which will be created by the teachers as per the topics with the benefit of creating an unlimited number of classes.  We have kept the application simple and multifunctional with highly optimized code to provide better interface with the user.
