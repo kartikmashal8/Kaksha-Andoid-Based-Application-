@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".display_marks">
+
+    <ImageView
+        android:id="@+id/image_cong"
+        android:layout_width="260dp"
+        android:layout_height="200dp"
+        android:background="@drawable/congrats"
+        android:paddingStart="10dp"
+        android:visibility="gone"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/bad_luck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/better_luck_next_time"
+        android:textColor="@color/secondary_text_color"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/good_luck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/congratulation"
+        android:textColor="@color/secondary_text_color"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:visibility="gone" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_score_is"
+        android:textColor="@color/secondary_text_color"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/display_marks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/_0_10"
+        android:textColor="@color/primary_text_color"
+        android:textSize="20sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/display_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_button_rounded"
+        android:paddingHorizontal="40dp"
+        android:text="@string/back"
+        android:textColor="@color/white" />
+
+</LinearLayout>

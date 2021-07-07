@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Quintet</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_branch">Select Branch</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="please_enter_details">Please Enter Details</string>
+    <string name="welcome">Welcome</string>
+    <string name="submit">SUBMIT</string>
+    <string name="sign_up">Sign up</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="quintet">QU!NTET</string>
+    <string name="staff">Staff</string>
+    <string name="student">Student</string>
+    <string name="sorry_no_classes_created">Please left swap and refresh</string>
+    <string name="enter_class_name">Enter Class Name</string>
+    <string name="enter_division">Enter Division</string>
+    <string name="enter_sem">Enter Sem</string>
+    <string name="enter_subject_code">Enter Subject Code</string>
+    <string name="enter_the_detail_s">Enter The Details</string>
+    <string name="enter_comment">Enter Comment</string>
+    <string name="commit">COMMIT</string>
+    <string name="no_comments_yet">No Comments Yet</string>
+    <string name="make_announcement">Make Announcement</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="add_quiz">Add Quiz</string>
+    <string name="announcement">Announcement</string>
+    <string name="notes">Notes</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="create">CREATE</string>
+    <string name="self_learn_by_bec_qunitent">SELF_LEARN BY BEC QUNITENT</string>
+    <string name="no_classes_available">No Classes Available</string>
+    <string name="welcome_to_bec_self_learning_app">Welcome to BEC self_learning app</string>
+    <string name="hi_staff">Hi staff</string>
+    <string name="choose_file">CHOOSE FILE</string>
+    <string name="upload">UPLOAD</string>
+    <string name="title_activity_create_quiz">CreateQuiz</string>
+    <string name="quiz_model">Quiz Model</string>
+    <string name="enter_question">Enter Question</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="option4">Option4</string>
+    <string name="correct_option_enter_option_number">Correct Option - (Enter Option Number)</string>
+    <string name="add_question_to_list">Add Question to list</string>
+    <string name="submit_the_quiz">Submit the Quiz</string>
+    <string name="enter_quiz_name">Enter Quiz Name</string>
+    <string name="enter_usn">Enter USN</string>
+    <string name="welcome_folk">Welcome_Folk</string>
+    <string name="hi_student">Hi_Student</string>
+    <string name="sorry_no_classes_allocated_to_you">Sorry_No_Classes_Allocated_To_You:(</string>
+    <string name="refresh">Refresh</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="admin">Admin</string>
+    <string name="add_staff">Add Staff</string>
+    <string name="add_admin">Add Admin</string>
+    <string name="add_student">Add Student</string>
+    <string name="delete_staff">Delete Staff</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="update">Update</string>
+    <string name="please_enter_new_password">Please Enter New Password:</string>
+    <string name="welcome_admin">Welcome Admin</string>
+    <string name="please_enter_new_email">Please Enter New Email:</string>
+    <string name="enter_branch_cse_ise_ece">Enter Branch - CSE, ISE, ECE</string>
+    <string name="search_staff">Search Staff</string>
+    <string name="no_staff_available">No Staff Available:(</string>
+    <string name="are_you_sure_you_want_to_delete_this_staff_entry">Are You Sure You Want To Delete The Entry!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter_sem_1_2_3">Enter Sem - 1,2,3</string>
+    <string name="enter_division_a_b_c">Enter Division - A,B,C</string>
+    <string name="search_students">Search Students</string>
+    <string name="no_students_found">No Students Found:(</string>
+    <string name="hi_admin">HI_Admin</string>
+    <string name="self_learn_by_bec_quintet">SELF_LEARN BY BEC QUINTET</string>
+    <string name="change_password_email">Change Password/Email</string>
+    <string name="please_enter_sem">Please Enter Sem:</string>
+    <string name="update_sem">Update Sem</string>
+    <string name="change_sem">Change sem</string>
+
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Lets Get started</string>
+    <string name="intro_text_description">Collaborate and Learn Together Across Multiple Devices on Qu!ents Minimalist Interface.</string>
+
+    <string name="sign_in_with_google">Sign in With Google</string>
+
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="sign_in_description_text">Enter your name, email id and password, to register with us.</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+
+
+    <string name="login_select">0</string>
+    <string name="class_model">Class Model</string>
+    <string name="select_your_designatation">Select Your Designatation</string>
+    <string name="presented_by">Presented By</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="select_branch">Select Branch</string>
+    <string name="bec_logo">BEC_LOGO</string>
+    <string name="flash_img">FLASH_IMG</string>
+    <string name="quintet_logo">QUINTET_LOGO</string>
+    <string name="college_logo">COLLEGE_LOGO</string>
+    <string name="sign_in_page">Sign in page</string>
+    <string name="profile_img">PROFILE_IMG</string>
+    <string name="select_sem">Select Sem</string>
+    <string name="select_div">Select Div</string>
+    <string name="signin_as_staff">Signin as staff</string>
+    <string name="classroom_img">CLASSROOM_IMG</string>
+    <string name="add_class">ADD_CLASS</string>
+    <string name="welcome_to_bec_classroom">Welcome To Bec Classroom</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="quiz_name">Quiz name</string>
+    <string name="questions">QUESTIONS</string>
+    <string name="no_pdf">NO_PDF</string>
+    <string name="pdf_icon">PDF_ICON</string>
+    <string name="download">Download</string>
+    <string name="students_marks">Students Marks</string>
+    <string name="no_info_available">No student has taken test:(</string>
+    <string name="back">Back</string>
+    <string name="_0_10">0/10</string>
+    <string name="your_score_is">Your score is :</string>
+    <string name="better_luck_next_time">Better luck next time:(</string>
+    <string name="congratulation">Congratulation:)</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_title">About Us:</string>
+    <string name="about_info">This is an android based application mainly designed for college-specific use.
+This application designed for the purpose  to provide a simple and user-friendly interface for both the faculty members and students, provides course-related material 24/7, also provides assessment tests which will be created by the teachers as per the topics with the benefit of creating an unlimited number of classes.
+    </string>
+    <string name="about_info1">We have kept the application simple and multifunctional with highly optimized code to provide better interface with the user.
+    </string>
+    <string name="about_info2">
+        By :
+Team Quintet\n\n
+        <br>
+
+        </br>
+
+        <br>
+        K.Adish - 2BA18CS003\n
+        </br>
+        <br>
+            K.Anand - 2BA18CS009\n
+        </br>
+        <br>
+            M.Kartik - 2BA18CS025\n
+        </br>
+        <br>
+        P.Rahul - 2BA18CS050\n
+    </br>
+        <br>
+            P.Rakshit - 2BA18CS054
+        </br>
+
+    </string>
+    <string name="please_swap_left_for_refresh">Please swap left for refresh:)</string>
+</resources>

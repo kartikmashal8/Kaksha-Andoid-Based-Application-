@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722459616992",
+    "project_id": "quitent-1",
+    "storage_bucket": "quitent-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722459616992:android:229b75e878a5a783ddd285",
+        "android_client_info": {
+          "package_name": "com.example.quitent1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722459616992-gps0q962aa81289467cduc2qt4spfmj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMd_XwJ3SzA_UdFWX86-qFRVr_GtUV34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722459616992-gps0q962aa81289467cduc2qt4spfmj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
